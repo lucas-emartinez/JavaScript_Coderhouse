@@ -1,0 +1,18 @@
+[
+    {
+        "email": "lucas.martinez@terabytesrl.com.ar",
+        "password": "terabyteSUPER"
+    },
+    {
+        "email": "BA00001",
+        "NOMBRE_SITIO": "Gobernador Ugarte",
+        "LATITUD": -35.164384999999996,
+        "LONGITUD": -60.086914
+    },
+    {
+        "SITIO": "BA00003",
+        "NOMBRE_SITIO": "25 de Mayo",
+        "LATITUD": -35.428416,
+        "LONGITUD": -60.153670999999996
+    }
+]

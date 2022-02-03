@@ -1,0 +1,14 @@
+[
+    {
+        "SITIO": "AA00001",
+        "NOMBRE_SITIO": "Base Vicecomodoro Marambio - Antártida Argentina",
+        "LATITUD": -64.25506299999999,
+        "LONGITUD": -56.65172
+    },
+    {
+        "SITIO": "BA00001",
+        "NOMBRE_SITIO": "Gobernador Ugarte",
+        "LATITUD": -35.164384999999996,
+        "LONGITUD": -60.086914
+    }
+]

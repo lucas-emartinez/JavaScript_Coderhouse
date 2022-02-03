@@ -1,0 +1,33 @@
+[
+    {"nombre" : "Cable 4mm2 V/A", "img" : "../img/cable4mmva.png" , "cantidad": 0,"precio":0, "id": 1},
+    {"nombre" : "Cable 10mm2 Celeste", "img": "../img/cable10mmceleste.png" , "cantidad": 0,"precio":0, "id" : 2},
+    {"nombre": "Cable 10mm2 Marrón", "img" : "../img/cable10mmmarron.png" , "cantidad" : 0,"precio":0, "id" : 3},
+    {"nombre": "Cable 10mm2 Negro", "img" : "../img/cable10mmnegro.png" , "cantidad" : 0,"precio":0, "id" : 4},
+    {"nombre": "Cable 10mm2 Rojo", "img" : "../img/cable10mmrojo.png" , "cantidad" : 0,"precio":0, "id" : 5},
+    {"nombre": "Cable 16mm2 Celeste", "img" : "../img/cable16mmceleste.png" , "cantidad" : 0,"precio":0, "id" : 6},
+    {"nombre": "Cable 16mm2 Negro", "img" : "../img/cable16mmnegro.png" , "cantidad" : 0,"precio":0, "id" : 7},
+    {"nombre": "Cable 16mm2 V/A", "img" : "../img/cable16mmva.png" , "cantidad" : 0,"precio":0, "id" : 8},
+    {"nombre": "Cable 25mm2 Celeste", "img" : "../img/cable25mmceleste.png" ," cantidad" : 0,"precio":0, "id" : 9},
+    {"nombre": "Cable 25mm2 Negro", "img" : "../img/cable25mmnegro.png" , "cantidad" : 0,"precio":0, "id" : 10},
+    {"nombre": "Cable 35mm2 Celeste", "img" : "../img/cable35mmceleste.png" , "cantidad" : 0,"precio":0, "id" : 11},
+    {"nombre": "Cable tipo Taller 2x6mm2", "img" : "../img/cabletipotaller26.png" , "cantidad" : 0,"precio":0, "id" : 12},
+    {"nombre": "Cable tipo Taller 2x1.5mm2", "img" : "../img/cabletipotaller215.png" , "cantidad ": 0,"precio":0, "id" : 13},
+    {"nombre": "Conector 1", "img": "../img/conector1.png" , "cantidad" : 0,"precio":0,  "id" :  14},
+    {"nombre": "Conector 3/4", "img" : "../img/conector34.png" , "cantidad" : 0,"precio":0,  "id" : 15},
+    {"nombre": "C-TAP", "img" : "../img/ctap.png" , "cantidad" : 0,"precio":0, "id" : 16},
+    {"nombre": "Morceto peine", "img" : "../img/morceto.png" ,"cantidad" : 0,"precio":0, "id" : 17},
+    {"nombre": "Terminal 10mm2", "img" : "../img/terminal10mm.png" , "cantidad": 0,"precio":0, "id" : 18},
+    {"nombre": "Terminal 16mm2", "img" : "../img/terminal16mm.png" , "cantidad": 0,"precio":0, "id" : 19},
+    {"nombre": "Terminal 25mm2", "img" : "../img/terminal25mm.png" , "cantidad": 0,"precio":0, "id" : 20},
+    {"nombre": "Terminal 35mm2", "img" : "../img/terminal35mm.png" , "cantidad": 0,"precio":0, "id" : 21},
+    {"nombre": "Tiff 6mm2", "img" : "../img/tiff6mm.png" ," cantidad" : 0,"precio":0, "id" : 22},
+    {"nombre": "Tiff 10mm2", "img" : "../img/tiff10mm.png" , "cantidad" : 0,"precio":0, "id" : 23},
+    {"nombre": "Tiff 16mm2", "img" : "../img/tiff16mm.png" , "cantidad" : 0,"precio":0, "id" : 24},
+    {"nombre": "Tiff 25mm2", "img" : "../img/tiff25mm.png" , "cantidad" : 0,"precio":0, "id" : 25},
+    {"nombre": "Tuflex 1", "img" : "../img/tuflex1.png" , "cantidad" : 0,"precio":0, "id" : 26},
+    {"nombre": "Tuflex 3/4", "img" : "../img/tuflex34.png" , "cantidad" : 0,"precio":0, "id" : 27},
+    {"nombre": "Conector RJ45", "img": "../img/rj45.png", "cantidad":0,"precio":0,"id":28},
+    {"nombre": "Cable UTP cat5e", "img": "../img/UTP.png","cantidad":0,"precio":0,"id":29}
+]
+
+
