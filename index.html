@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Terabyte S.R.L.">
+    <title>Terabyte login</title>
+    <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="styles/style.css" rel="stylesheet">
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  </head>
+  <body class="text-center">
+    
+<main class="form-signin">
+    <form action="">
+      <img class="mb-4" src="img/Logo Tera.PNG" alt="" width="350" height="90">
+      </br></br></br></br>
+      <div class="form-floating">
+        <input type="text" id="loginuser" class="form-control" name="loginuser"  placeholder="Username o email">
+        <label for="floatingInput">Usuario</label>
+      </div>
+      <div class="form-floating">
+        <input type="password" id="loginpw" class="form-control"  placeholder="Password">
+        <label for="floatingPassword">Contraseña</label>
+      </div>
+      <div class="checkbox mb-3">
+        <label><input type="checkbox" name="remember-user" value="remember-me">Recordar</label>
+      </div>
+      <button class="btn btn-lg btn-primary" id="loginSubmit" type="submit">Iniciar sesión</button>
+    </form>
+</main>
+  <script src="login.js"></script>
+ 
+  </body>
+</html>
